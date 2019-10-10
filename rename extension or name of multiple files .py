@@ -1,6 +1,6 @@
 import os
 
-srcpath = "E:/tv shows temp/example"
+srcpath = "E:/temp/example"
 dstpath = srcpath #change this to move files to this path
 extensionBefore = ".mp4"
 extensionAfter = ".mp3" 
